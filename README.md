@@ -1,4 +1,4 @@
-# myprofile
+# My profile
 
 <h1 align="center">Hi 👋, I'm Mehadi Hassan Saki</h1>
 <h3 align="center">Data Analyst | Statistical Analysis | Machine Learning | Help businesses make data-driven decisions</h3>
