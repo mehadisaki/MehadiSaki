@@ -1,9 +1,9 @@
 # About me
-
+<!---* 🌍 https://rahuldkjain.github.io/gh-profile-readme-generator/  --->
 <h1 align="center">Hi 👋, I'm Mehadi Hassan Saki</h1>
 <h3 align="center">Data Analyst | Statistical Analysis | Machine Learning | Help businesses make data-driven decisions</h3>
 
-Ten years of experience and comprehensive knowledge of Data-driven decision-making and Data analysis in the manufacturing industry with solid academic background.
+Ten years of experience and comprehensive knowledge on Data-driven decision-making and Data analysis in the manufacturing industry with solid academic background.
 
 ⚡Technical Skills: 
 <ul>
@@ -20,6 +20,28 @@ Ten years of experience and comprehensive knowledge of Data-driven decision-maki
 • Experience in Functional and Object-Oriented Programming styles of Python. 
 
 • In-depth understanding of Statistical Model and machine learning theory 
+
+• Understanding requirements of the institution and consulting for the projects, academic, research papers, tools recommendations to enhance the performance with Artiﬁcial Intelligence and Machine Learning. 
+
+
+😄 Worked with data, applying statistical models, designing the ﬂow of the data product, and monitoring the end-to-end products. 😄 Worked on different projects in multiple domains like Finance, Education, Healthcare, Public Sector. 
+
+
+### Research Thesis 
+
+<a href="https://www.python.org/](https://www.researchgate.net/publication/361499060_Forecasting_Models_of_Sales_for_Television_in_Bangladesh" > Forecasting Models of Sales for Television in Bangladesh </a>
+
+### Tools | Frameworks 
+
+Data Preprocessing: NumPy, Pandas. 
+
+Machine and Deep Learning Implementation Framework: Scikit-Learn, Tensorflow. 
+
+Data Visualization: Matplotlib, Tableau, Seaborn. 
+
+Cloud Services: AWS, Google Colaboratory, Kaggle kernel. 
+
+Integrated Development Environment: Jupyter-Notebook, Sublime Text, PyCharm.
 
 - 👨‍💻 All of my Data analysis projects are available at [https://public.tableau.com/app/profile/mehadi.hassan.saki](https://public.tableau.com/app/profile/mehadi.hassan.saki)
 
