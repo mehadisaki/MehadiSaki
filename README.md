@@ -3,6 +3,24 @@
 <h1 align="center">Hi 👋, I'm Mehadi Hassan Saki</h1>
 <h3 align="center">Data Analyst | Statistical Analysis | Machine Learning | Help businesses make data-driven decisions</h3>
 
+Ten years of experience and comprehensive knowledge of Data-driven decision-making and Data analysis in the manufacturing industry with solid academic background.
+
+⚡Technical Skills: 
+<ul>
+ BI : Tableau 
+  </ul>
+  <ul>Team management: MS Project </ul><ul> Programming: Python, R, SQL</ul>
+<ul> Machine learning: TensorFlow, Scikit-learn, NumPy, SciPy</ul>
+<ul>Data analysis : Python, R</ul> 
+<ul>Statistical analysis </ul> 
+
+⚡Specialties: 
+• Data analysis • Machine learning • Business Intelligence • Process Development
+
+• Experience in Functional and Object-Oriented Programming styles of Python. 
+
+• In-depth understanding of Statistical Model and machine learning theory 
+
 - 👨‍💻 All of my Data analysis projects are available at [https://public.tableau.com/app/profile/mehadi.hassan.saki](https://public.tableau.com/app/profile/mehadi.hassan.saki)
 
 - 📝 My all articles on [https://cliffanalytica.hashnode.dev/](https://cliffanalytica.hashnode.dev/)
