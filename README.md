@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Mehadi Hassan Saki</h1>
 <h3 align="center">Data Analyst | Statistical Analysis | Machine Learning | Help businesses make data-driven decisions</h3>
 
-Ten years of experience and comprehensive knowledge on Data-driven decision-making and Data analysis in the manufacturing industry with solid academic background.
-
+<p>I have experience and comprehensive knowledge of Data-driven decision-making and Data analysis with solid academic background. I studied mechanical engineering and work for ten years in the manufacturing industry. Now I have changed my career to data analyst. I have problem-solving skills with Adaptability to new technology. </P>
+<p>
 ⚡Technical Skills: 
 <ul>
  BI : Tableau 
@@ -13,16 +13,18 @@ Ten years of experience and comprehensive knowledge on Data-driven decision-maki
 <ul> Machine learning: TensorFlow, Scikit-learn, NumPy, SciPy</ul>
 <ul>Data analysis : Python, R</ul> 
 <ul>Statistical analysis </ul> 
-
+</p>
+<p>
 ⚡Specialties: 
-• Data analysis • Machine learning • Business Intelligence • Process Development
-
-• Experience in Functional and Object-Oriented Programming styles of Python. 
-
-• In-depth understanding of Statistical Model and machine learning theory 
-
-• Understanding requirements of the institution and consulting for the projects, academic, research papers, tools recommendations to enhance the performance with Artiﬁcial Intelligence and Machine Learning. 
-
+ <ul>
+• Data analysis • Machine learning • Business Intelligence </ul>
+<ul>
+• Experience in Functional and Object-Oriented Programming styles of Python. </ul>
+<ul>
+• In-depth understanding of Statistical Model and machine learning theory </ul>
+<ul>
+• Understanding requirements of the institution and consulting for the projects, academic, research papers, tools recommendations to enhance the performance with Artiﬁcial Intelligence and Machine Learning. </ul>
+</p>
 
 😄 Worked with data, applying statistical models, designing the ﬂow of the data product, and monitoring the end-to-end products. 😄 Worked on different projects in multiple domains like Finance, Education, Healthcare, Public Sector. 
 
